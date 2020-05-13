@@ -1,7 +1,7 @@
 #include <stdio.h>					
 #include <stdlib.h>																							// 11.05.2020
 #include <math.h>																							// Luca Schmidt & Moritz Bieg
-																											// Newton-Verfahren für Funktionen mit 3 Koeffizienten und einem Absolutglied
+																											// Newton-Verfahren fï¿½r Funktionen mit 3 Koeffizienten und einem Absolutglied
 
 double Val1 = 1;
 double Val2 = -6;
@@ -56,3 +56,11 @@ int main()
 	printf("Eine Nullstelle liegt ca. bei: %.5f \n \n", X);													// Ausgabe
 
 }
+
+/*
+JW-2020-06-12:
+--------------
+> good implementation! (8/10) 
+> missing extra lib (*.c + *.h) incl. includegard includeguards: -1 Pkt
+> missing abort criteria max iterations: -1Pkt
+*/
