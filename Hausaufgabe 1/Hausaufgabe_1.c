@@ -1,6 +1,7 @@
 #include <stdio.h>					
 #include <stdlib.h>																							// 11.05.2020
-#include <math.h>																							// Luca Schmidt & Moritz Bieg
+#include <math.h>																								// Luca Schmidt & Moritz Bieg
+#include "myFunction.h"
 																											// Newton-Verfahren für Funktionen mit 3 Koeffizienten und einem Absolutglied
 
 double Val1 = 1;
