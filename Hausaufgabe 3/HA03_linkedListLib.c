@@ -202,6 +202,12 @@ void stringToLower(char *string) {
 		}
 	}
 }
+/*
+JW-2020-05-27:
+--------------
+> well done (10/10) 
+> how much time did you spend on this exercise? I think it was a litte to easy wasnt it?
+*/
 
 
 
