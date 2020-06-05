@@ -12,6 +12,7 @@ void addListElem(listElement *start){
         return;
         }
 
+
     listElement * currElem = start;
     while (currElem->nextElem != NULL) currElem = currElem->nextElem;// get last elem in list
     currElem->nextElem = new; // add new to the end of list
