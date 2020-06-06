@@ -83,7 +83,7 @@ void delList(listElement *start){
   if(start->nextElem == NULL) printf("list is empty\n");
   else{
     listElement *currElem = start;
-    listElem *delElem;
+    listElement *delElem;
 
     while(currElem->nextElem != NULL){
       delElem = currElem->nextElem;
