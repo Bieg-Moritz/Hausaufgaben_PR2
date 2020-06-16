@@ -1,8 +1,8 @@
 Programmieren in C | Jannik Wiessler | 2020-06-11 
 Template zur Hausaufgabe 06 
 
-------------------------------------------------------------------------
- Multiple Choice:
+------------------------------------------------------------------------                                // Moritz Bieg
+ Multiple Choice:                                                                                       // 16.06.2020
  Bitte nach dem jeweiligen Buchstaben die Nummer als Antwort eintragen.
 ------------------------------------------------------------------------
 a)2
